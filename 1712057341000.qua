@@ -396,6 +396,8 @@ TimingPoints:
   Bpm: 140
 - StartTime: 58070.80859375
   Bpm: 140
+- StartTime: 58287.98046875
+  Bpm: 140
 - StartTime: 64287
   Bpm: 140
 - StartTime: 64287
@@ -421,6 +423,8 @@ TimingPoints:
 - StartTime: 64906
   Bpm: 140
 - StartTime: 64954
+  Bpm: 140
+- StartTime: 65143.9921875
   Bpm: 140
 - StartTime: 71574
   Bpm: 140
@@ -786,6 +790,8 @@ TimingPoints:
   Bpm: 140
 - StartTime: 71784.8125
   Bpm: 140
+- StartTime: 72002.9921875
+  Bpm: 140
 - StartTime: 78002
   Bpm: 140
 - StartTime: 78002
@@ -811,6 +817,8 @@ TimingPoints:
 - StartTime: 78621
   Bpm: 140
 - StartTime: 78668
+  Bpm: 140
+- StartTime: 78859
   Bpm: 140
 SliderVelocities:
 - StartTime: 54859
@@ -2259,6 +2267,42 @@ SliderVelocities:
   Multiplier: 64000
 - StartTime: 58288
   Multiplier: 1
+- StartTime: 68716
+  Multiplier: 9152
+- StartTime: 68716.015625
+- StartTime: 68859
+  Multiplier: 9152
+- StartTime: 68859.015625
+- StartTime: 69002
+  Multiplier: 9088
+- StartTime: 69002.015625
+- StartTime: 69144
+  Multiplier: 18304
+- StartTime: 69144.015625
+- StartTime: 69430
+  Multiplier: 9152
+- StartTime: 69430.015625
+- StartTime: 69573
+  Multiplier: 18304
+- StartTime: 69573.015625
+- StartTime: 69859
+  Multiplier: 9152
+- StartTime: 69859.015625
+- StartTime: 70002
+  Multiplier: 18240
+- StartTime: 70002.015625
+- StartTime: 70287
+  Multiplier: 9152
+- StartTime: 70287.015625
+- StartTime: 70430
+  Multiplier: 18304
+- StartTime: 70430.015625
+- StartTime: 70716
+  Multiplier: 9152
+- StartTime: 70716.015625
+- StartTime: 70859
+  Multiplier: 18240
+- StartTime: 70859.015625
 - StartTime: 71144
   Multiplier: 1002400000
 - StartTime: 71144.015625
@@ -3670,6 +3714,66 @@ SliderVelocities:
   Multiplier: 64000
 - StartTime: 72003
   Multiplier: 1
+- StartTime: 86545.328125
+  Multiplier: 1
+- StartTime: 96002
+  Multiplier: 9088
+- StartTime: 96002.015625
+- StartTime: 96144
+  Multiplier: 9152
+- StartTime: 96144.015625
+- StartTime: 96287
+  Multiplier: 9152
+- StartTime: 96287.015625
+- StartTime: 96430
+  Multiplier: 9152
+- StartTime: 96430.015625
+- StartTime: 96573
+  Multiplier: 18304
+- StartTime: 96573.015625
+- StartTime: 96859
+  Multiplier: 9152
+- StartTime: 96859.015625
+- StartTime: 97002
+  Multiplier: 18240
+- StartTime: 97002.015625
+- StartTime: 97287
+  Multiplier: 9152
+- StartTime: 97287.015625
+- StartTime: 97430
+  Multiplier: 18304
+- StartTime: 97430.015625
+- StartTime: 97716
+  Multiplier: 1
+- StartTime: 109716
+  Multiplier: 9152
+- StartTime: 109716.015625
+- StartTime: 109859
+  Multiplier: 9152
+- StartTime: 109859.015625
+- StartTime: 110002
+  Multiplier: 9088
+- StartTime: 110002.015625
+- StartTime: 110144
+  Multiplier: 9152
+- StartTime: 110144.015625
+- StartTime: 110287
+  Multiplier: 18304
+- StartTime: 110287.015625
+- StartTime: 110573
+  Multiplier: 9152
+- StartTime: 110573.015625
+- StartTime: 110716
+  Multiplier: 18304
+- StartTime: 110716.015625
+- StartTime: 111002
+  Multiplier: 9088
+- StartTime: 111002.015625
+- StartTime: 111144
+  Multiplier: 18304
+- StartTime: 111144.015625
+- StartTime: 111430
+  Multiplier: 1
 HitObjects:
 - StartTime: 2
   Lane: 1
@@ -4879,7 +4983,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 7
 - StartTime: 54002
-  Lane: 4
+  Lane: 3
   EndTime: 54787
   HitSound: Normal, Whistle
   KeySounds: []
@@ -9574,7 +9678,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 122716
-  Lane: 4
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 122716
@@ -9594,7 +9698,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 1
 - StartTime: 122859
-  Lane: 4
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 123002
