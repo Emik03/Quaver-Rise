@@ -1,5 +1,6 @@
 AudioFile: audio.mp3
-BackgroundFile: ''
+BackgroundFile: rise.jpg
+BannerFile: rice.jpg
 MapId: -1
 MapSetId: -1
 Mode: Keys4
@@ -8,7 +9,7 @@ Artist: Ace Aura
 Source: Disciple Afterlife, Vol. 1
 Tags: qot4, qot24, qot2024, sv, swiss, future riddim, melodic, male vocalist, english, single
 Creator: Emik
-DifficultyName: ''
+DifficultyName: PREPARE TO FIGHT
 Description: Created at 1712057341000
 BPMDoesNotAffectScrollVelocity: true
 InitialScrollVelocity: 1
