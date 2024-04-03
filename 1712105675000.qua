@@ -41792,71 +41792,61 @@ HitObjects:
   EditorLayer: 3
 - StartTime: 51430
   Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 51430
-  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 51502
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 51573
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 51644
-  Lane: 1
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 51716
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 51787
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 3
+- StartTime: 51859
   Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 51859
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 51859
-  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 51930
-  Lane: 4
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52002
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52073
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52144
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52216
-  Lane: 4
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
@@ -41865,78 +41855,58 @@ HitObjects:
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 52287
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 52359
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52430
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52502
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 52573
-  Lane: 4
-  HitSound: Normal, Finish
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 52573
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 52644
   Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
-- StartTime: 52716
-  Lane: 3
+- StartTime: 52573
+  Lane: 1
+  HitSound: Normal, Finish
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 52644
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52716
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 52787
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52859
-  Lane: 1
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 52930
+  Lane: 3
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 3
+- StartTime: 53002
   Lane: 4
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 53002
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 53002
-  Lane: 2
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 53073
-  Lane: 3
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
@@ -43603,116 +43573,91 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 92573
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 92573
   Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 92644
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 92716
-  Lane: 1
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 92787
-  Lane: 4
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 92859
-  Lane: 3
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 92930
+  Lane: 1
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 3
+- StartTime: 93002
   Lane: 2
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 93002
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 93002
-  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 93073
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93144
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93216
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93287
-  Lane: 4
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93359
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93430
   Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 93430
-  Lane: 4
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 93502
-  Lane: 2
+  Lane: 1
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 93573
-  Lane: 1
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 93644
-  Lane: 4
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 93716
   Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
-- StartTime: 93716
-  Lane: 1
-  HitSound: Normal, Finish
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 93787
+- StartTime: 93644
   Lane: 3
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
-- StartTime: 93859
+- StartTime: 93716
+  Lane: 4
+  HitSound: Normal, Finish
+  KeySounds: []
+  EditorLayer: 4
+- StartTime: 93787
   Lane: 2
   HitSound: Normal, Clap
   KeySounds: []
@@ -43738,17 +43683,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 94144
-  Lane: 3
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 94144
-  Lane: 4
+  Lane: 1
   HitSound: Normal, Finish
   KeySounds: []
   EditorLayer: 4
 - StartTime: 94216
-  Lane: 1
+  Lane: 4
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
