@@ -40916,7 +40916,7 @@ SliderVelocities:
   Multiplier: 10
 HitObjects:
 - StartTime: 2
-  Lane: 1
+  Lane: 3
   HitSound: Normal, Whistle, Finish
   KeySounds: []
   EditorLayer: 6
