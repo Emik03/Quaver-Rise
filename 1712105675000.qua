@@ -2188,6 +2188,12 @@ TimingPoints:
   Bpm: 140
 - StartTime: 54854.3984375
   Bpm: 140
+- StartTime: 54859.875
+  Bpm: 160000
+  Hidden: true
+- StartTime: 54860.125
+  Bpm: 140
+  Hidden: true
 - StartTime: 55001.875
   Bpm: 160000
   Hidden: true
@@ -5140,6 +5146,12 @@ TimingPoints:
   Bpm: 140
 - StartTime: 95996.3984375
   Bpm: 140
+- StartTime: 96002.875
+  Bpm: 160000
+  Hidden: true
+- StartTime: 96003.125
+  Bpm: 140
+  Hidden: true
 - StartTime: 96143.875
   Bpm: 160000
   Hidden: true
@@ -19635,6 +19647,9 @@ SliderVelocities:
 - StartTime: 54853.30078125
   Multiplier: -1024
 - StartTime: 54853.31640625
+- StartTime: 54854
+  Multiplier: -409817600
+- StartTime: 54854.015625
 - StartTime: 54854.3828125
   Multiplier: 13952
 - StartTime: 54854.3984375
@@ -21085,6 +21100,10 @@ SliderVelocities:
 - StartTime: 58283.8359375
   Multiplier: 64000
 - StartTime: 58283.8515625
+  Multiplier: 64000
+- StartTime: 58285
+  Multiplier: -998248256
+- StartTime: 58285.015625
   Multiplier: 64000
 - StartTime: 58285.8359375
   Multiplier: 64000
@@ -23994,6 +24013,10 @@ SliderVelocities:
   Multiplier: 64000
 - StartTime: 71997.8515625
   Multiplier: 64000
+- StartTime: 71999
+  Multiplier: -4031358
+- StartTime: 71999.015625
+  Multiplier: 64000
 - StartTime: 71999.8359375
   Multiplier: 64000
 - StartTime: 71999.8515625
@@ -24001,6 +24024,10 @@ SliderVelocities:
 - StartTime: 72001.8359375
   Multiplier: 64000
 - StartTime: 72001.8515625
+  Multiplier: 64000
+- StartTime: 72002
+  Multiplier: -998248256
+- StartTime: 72002.015625
   Multiplier: 64000
 - StartTime: 72003
   Multiplier: 5.3344359397888184
@@ -36598,6 +36625,10 @@ SliderVelocities:
   Multiplier: 64000
 - StartTime: 95997.53125
   Multiplier: 64000
+- StartTime: 96001
+  Multiplier: -420706528
+- StartTime: 96001.015625
+  Multiplier: 64000
 - StartTime: 96002
   Multiplier: 12114.3037109375
 - StartTime: 96002.015625
@@ -37858,7 +37889,6 @@ SliderVelocities:
   Multiplier: 12199.615234375
 - StartTime: 110573.015625
 - StartTime: 110716
-  Multiplier: 226962304
 - StartTime: 110716.015625
 - StartTime: 111001.984375
   Multiplier: -226944000
@@ -39656,6 +39686,10 @@ SliderVelocities:
 - StartTime: 111424.8125
   Multiplier: 64000
 - StartTime: 111424.828125
+  Multiplier: 64000
+- StartTime: 111428
+  Multiplier: 64000
+- StartTime: 111428.015625
   Multiplier: 64000
 - StartTime: 111431
   Multiplier: 1.3329999446868896
@@ -41906,12 +41940,12 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
-- StartTime: 54859
+- StartTime: 54860
   Lane: 3
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 54859
+- StartTime: 54860
   Lane: 4
   KeySounds: []
   EditorLayer: 1
@@ -43718,12 +43752,12 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
-- StartTime: 96002
+- StartTime: 96003
   Lane: 3
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 96002
+- StartTime: 96003
   Lane: 4
   KeySounds: []
   EditorLayer: 1
