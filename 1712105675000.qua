@@ -40996,6 +40996,7 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 14573
   Lane: 4
+  HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 3
 - StartTime: 14859
