@@ -1,4 +1,5 @@
 AudioFile: audio.mp3
+SongPreviewTime: 54854
 BackgroundFile: rise.jpg
 BannerFile: rice.jpg
 MapId: -1
@@ -2187,6 +2188,12 @@ TimingPoints:
   Bpm: 140
 - StartTime: 54854.3984375
   Bpm: 140
+- StartTime: 55001.875
+  Bpm: 160000
+  Hidden: true
+- StartTime: 55002.125
+  Bpm: 140
+  Hidden: true
 - StartTime: 55285.71484375
   Bpm: 140
 - StartTime: 55287.71484375
