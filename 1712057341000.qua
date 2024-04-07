@@ -34,6 +34,66 @@ SoundEffects: []
 TimingPoints:
 - StartTime: 2
   Bpm: 140
+- StartTime: 1716
+  Bpm: 140
+- StartTime: 3430
+  Bpm: 140
+- StartTime: 5144
+  Bpm: 140
+- StartTime: 6859
+  Bpm: 140
+- StartTime: 8573
+  Bpm: 140
+- StartTime: 10287
+  Bpm: 140
+- StartTime: 12001
+  Bpm: 140
+- StartTime: 13716
+  Bpm: 140
+- StartTime: 15430
+  Bpm: 140
+- StartTime: 17144
+  Bpm: 140
+- StartTime: 18859
+  Bpm: 140
+- StartTime: 20573
+  Bpm: 140
+- StartTime: 22287
+  Bpm: 140
+- StartTime: 24001
+  Bpm: 140
+- StartTime: 25716
+  Bpm: 140
+- StartTime: 27430
+  Bpm: 140
+- StartTime: 29144
+  Bpm: 140
+- StartTime: 30859
+  Bpm: 140
+- StartTime: 32573
+  Bpm: 140
+- StartTime: 34287
+  Bpm: 140
+- StartTime: 36002
+  Bpm: 140
+- StartTime: 37716
+  Bpm: 140
+- StartTime: 39430
+  Bpm: 140
+- StartTime: 41144
+  Bpm: 140
+- StartTime: 42859
+  Bpm: 140
+- StartTime: 44573
+  Bpm: 140
+- StartTime: 46287
+  Bpm: 140
+- StartTime: 48002
+  Bpm: 140
+- StartTime: 49716
+  Bpm: 140
+- StartTime: 51430
+  Bpm: 140
 - StartTime: 53144
   Bpm: 140
 - StartTime: 53145.1015625
@@ -2191,7 +2251,7 @@ TimingPoints:
 - StartTime: 54859.875
   Bpm: 160000
   Hidden: true
-- StartTime: 54860.125
+- StartTime: 54860
   Bpm: 140
   Hidden: true
 - StartTime: 55001.875
@@ -2568,7 +2628,13 @@ TimingPoints:
   Bpm: 140
 - StartTime: 58070.80859375
   Bpm: 140
-- StartTime: 58287.98046875
+- StartTime: 58287
+  Bpm: 140
+- StartTime: 60002
+  Bpm: 140
+- StartTime: 61716
+  Bpm: 140
+- StartTime: 63430
   Bpm: 140
 - StartTime: 64287
   Bpm: 140
@@ -2596,7 +2662,7 @@ TimingPoints:
   Bpm: 140
 - StartTime: 64954
   Bpm: 140
-- StartTime: 65143.9921875
+- StartTime: 65144
   Bpm: 140
 - StartTime: 71574
   Bpm: 140
@@ -2960,9 +3026,15 @@ TimingPoints:
   Bpm: 140
 - StartTime: 71783.796875
   Bpm: 140
-- StartTime: 71784.8125
+- StartTime: 71784
   Bpm: 140
-- StartTime: 72002.9921875
+- StartTime: 72003
+  Bpm: 140
+- StartTime: 73716
+  Bpm: 140
+- StartTime: 75430
+  Bpm: 140
+- StartTime: 77144
   Bpm: 140
 - StartTime: 78002
   Bpm: 140
@@ -2991,6 +3063,22 @@ TimingPoints:
 - StartTime: 78668
   Bpm: 140
 - StartTime: 78859
+  Bpm: 140
+- StartTime: 80573
+  Bpm: 140
+- StartTime: 82287
+  Bpm: 140
+- StartTime: 84001
+  Bpm: 140
+- StartTime: 85716
+  Bpm: 140
+- StartTime: 87430
+  Bpm: 140
+- StartTime: 89144
+  Bpm: 140
+- StartTime: 90858
+  Bpm: 140
+- StartTime: 92573
   Bpm: 140
 - StartTime: 94287
   Bpm: 140
@@ -5164,9 +5252,23 @@ TimingPoints:
 - StartTime: 96287.125
   Bpm: 140
   Hidden: true
-- StartTime: 96428.4296875
+- StartTime: 96428
   Bpm: 140
-- StartTime: 96430.4296875
+- StartTime: 97716
+  Bpm: 140
+- StartTime: 99430
+  Bpm: 140
+- StartTime: 101144
+  Bpm: 140
+- StartTime: 102858
+  Bpm: 140
+- StartTime: 104572
+  Bpm: 140
+- StartTime: 106287
+  Bpm: 140
+- StartTime: 108001
+  Bpm: 140
+- StartTime: 109715
   Bpm: 140
 - StartTime: 111003
   Bpm: 140
@@ -5846,9 +5948,23 @@ TimingPoints:
   Bpm: 140
 - StartTime: 111428.4296875
   Bpm: 140
-- StartTime: 111430.4296875
+- StartTime: 111430
   Bpm: 140
 - StartTime: 111430.4296875
+  Bpm: 140
+- StartTime: 111431
+  Bpm: 140
+- StartTime: 113144
+  Bpm: 140
+- StartTime: 114859
+  Bpm: 140
+- StartTime: 116573
+  Bpm: 140
+- StartTime: 118287
+  Bpm: 140
+- StartTime: 120001
+  Bpm: 140
+- StartTime: 121716
   Bpm: 140
 SliderVelocities:
 - StartTime: 2
@@ -13986,10 +14102,7 @@ SliderVelocities:
 - StartTime: 53143.984375
   Multiplier: -0.03596283495426178
 - StartTime: 53144
-  Multiplier: 0.10000000149011612
-- StartTime: 53144
-  Multiplier: 4864
-- StartTime: 53144
+  Multiplier: 44428800000
 - StartTime: 53144.015625
 - StartTime: 53145.0859375
   Multiplier: 24768
@@ -15822,6 +15935,10 @@ SliderVelocities:
   Multiplier: 64000
 - StartTime: 53572.75
   Multiplier: 0.57499998807907104
+- StartTime: 53572.984375
+  Multiplier: -44428800000
+- StartTime: 53573
+  Multiplier: 0.57499998807907104
 - StartTime: 53574
   Multiplier: 1
 - StartTime: 53599.546875
@@ -15857,8 +15974,7 @@ SliderVelocities:
 - StartTime: 54001.5
   Multiplier: 1.0499999523162842
 - StartTime: 54002
-  Multiplier: -12800
-- StartTime: 54002
+  Multiplier: 44428800000
 - StartTime: 54002.015625
 - StartTime: 54003.0859375
   Multiplier: 12800
@@ -19662,6 +19778,8 @@ SliderVelocities:
 - StartTime: 54859
   Multiplier: 12199.615234375
 - StartTime: 54859.015625
+- StartTime: 54859.984375
+  Multiplier: -44428800000
 - StartTime: 54860
   Multiplier: 1.3329999446868896
 - StartTime: 55002
@@ -22616,6 +22734,10 @@ SliderVelocities:
   Multiplier: 1002400000
 - StartTime: 71144.015625
   Multiplier: 1
+- StartTime: 71572
+  Multiplier: 44428800000
+- StartTime: 71572.015625
+  Multiplier: 1
 - StartTime: 71572.984375
   Multiplier: -1002400000
 - StartTime: 71573
@@ -23580,6 +23702,9 @@ SliderVelocities:
 - StartTime: 71783.796875
   Multiplier: -19200
 - StartTime: 71783.8125
+- StartTime: 71783.984375
+  Multiplier: -44428800000
+- StartTime: 71784
 - StartTime: 71784.796875
   Multiplier: 19200
 - StartTime: 71784.8125
@@ -30952,9 +31077,7 @@ SliderVelocities:
 - StartTime: 94286.984375
   Multiplier: -0.03596283495426178
 - StartTime: 94287
-- StartTime: 94287
-  Multiplier: -6208
-- StartTime: 94287
+  Multiplier: 44428800000
 - StartTime: 94287.015625
 - StartTime: 94288.0859375
   Multiplier: -5952
@@ -32778,6 +32901,9 @@ SliderVelocities:
 - StartTime: 94695.796875
   Multiplier: -11264
 - StartTime: 94695.8125
+- StartTime: 94695.984375
+  Multiplier: -44428800000
+- StartTime: 94696
 - StartTime: 94696.8828125
   Multiplier: 11584
 - StartTime: 94696.8984375
@@ -32820,6 +32946,10 @@ SliderVelocities:
 - StartTime: 95090.90625
   Multiplier: 1.171875
 - StartTime: 95117.703125
+  Multiplier: 1.2109375
+- StartTime: 95142
+  Multiplier: 44428800000
+- StartTime: 95142.015625
   Multiplier: 1.2109375
 - StartTime: 95144
   Multiplier: -12800
@@ -36632,6 +36762,8 @@ SliderVelocities:
 - StartTime: 96002
   Multiplier: 12114.3037109375
 - StartTime: 96002.015625
+- StartTime: 96002.984375
+  Multiplier: -44428800000
 - StartTime: 96003
   Multiplier: 1.3329999446868896
 - StartTime: 96144
