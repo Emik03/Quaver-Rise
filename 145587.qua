@@ -2,8 +2,8 @@ AudioFile: audio.mp3
 SongPreviewTime: 54854
 BackgroundFile: rise.jpg
 BannerFile: rice.jpg
-MapId: -1
-MapSetId: -1
+MapId: 145587
+MapSetId: 34070
 Mode: Keys4
 Title: Rise
 Artist: Ace Aura
